@@ -20,3 +20,6 @@ Paso 9:
 En la terminal escribimos " python.\app.py " y damos enter. La terminal nos dara un link.
 Paso Final:
 Abrimos el link dando click sobre el mientras que al tiempo oprimimos las tecla ctrl. Se abrira el navegador y editaremos la url colocando "\inicio" al final de la misma.
+
+<img width="712" height="99" alt="image" src="https://github.com/user-attachments/assets/68de4f0d-ed11-44a8-9e74-9762a193cd40" />
+
